@@ -1,7 +1,7 @@
 # Picture Lab
 
-Files from an AP Computer Science A Picture Lab
+- Files from an AP Computer Science A Picture Lab
 
-Created methods to implement different picture filters
+- Created methods to implement different picture filters
 
-Participated in the customized filter competition
+- Participated in the customized filter competition
